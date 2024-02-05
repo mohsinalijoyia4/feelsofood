@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559680879175",
+    "project_id": "recipe-ai-bcb59",
+    "storage_bucket": "recipe-ai-bcb59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559680879175:android:a94267ca8ea7fb47148f62",
+        "android_client_info": {
+          "package_name": "com.kc.airecipegenerator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACZQqSxDEi3gtWy64JuwXF95DfvfIugMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-play-services-base-18.0.0-0 C:\Users\mohsi\.gradle\caches\transforms-3\083a8baa10c6f0665cac4750c894ac3a\transformed\jetified-play-services-base-18.0.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-work-runtime-2.7.0-1 C:\Users\mohsi\.gradle\caches\transforms-3\0e2c522c009108d2253c69b2b59d63ac\transformed\work-runtime-2.7.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-core-ktx-1.8.0-2 C:\Users\mohsi\.gradle\caches\transforms-3\16bff1cf0da1dcb952b433950cb85b7e\transformed\jetified-core-ktx-1.8.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-annotation-experimental-1.1.0-3 C:\Users\mohsi\.gradle\caches\transforms-3\2cec17a2d47f950880a2bdca5c2f7ede\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-appcompat-1.2.0-4 C:\Users\mohsi\.gradle\caches\transforms-3\380d00ac946c5c3dcb924eb68155576a\transformed\appcompat-1.2.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-lifecycle-runtime-2.6.2-5 C:\Users\mohsi\.gradle\caches\transforms-3\3f597a236c093365f31597cf138a6a88\transformed\lifecycle-runtime-2.6.2\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-core-1.8.0-6 C:\Users\mohsi\.gradle\caches\transforms-3\4845a63a3a148abde81abde62916e0ea\transformed\core-1.8.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-appcompat-resources-1.2.0-7 C:\Users\mohsi\.gradle\caches\transforms-3\4c55470dbce04bb59113f2095ab5153a\transformed\jetified-appcompat-resources-1.2.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-lifecycle-livedata-2.6.2-8 C:\Users\mohsi\.gradle\caches\transforms-3\59e553efd8f41a753f81d50c4b50063b\transformed\lifecycle-livedata-2.6.2\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-webkit-1.7.0-9 C:\Users\mohsi\.gradle\caches\transforms-3\5a96cde6865d856a2dc4557272aff069\transformed\webkit-1.7.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-ads-adservices-1.0.0-beta05-10 C:\Users\mohsi\.gradle\caches\transforms-3\644a97a3c1f54b2523f2ad9ac441b0d1\transformed\jetified-ads-adservices-1.0.0-beta05\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-play-services-ads-22.5.0-11 C:\Users\mohsi\.gradle\caches\transforms-3\680021febbdcc0f5823d5d5a2c5ec7a2\transformed\jetified-play-services-ads-22.5.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-lifecycle-viewmodel-2.6.2-12 C:\Users\mohsi\.gradle\caches\transforms-3\72094ccef28f2d2b1a308e5950cf00c5\transformed\lifecycle-viewmodel-2.6.2\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-lifecycle-service-2.6.2-13 C:\Users\mohsi\.gradle\caches\transforms-3\7385892c9ea2a1a81eb017d0f5ac7662\transformed\jetified-lifecycle-service-2.6.2\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-window-java-1.0.0-beta04-14 C:\Users\mohsi\.gradle\caches\transforms-3\9d715a3e53dde034ffb5234a22d1ea91\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-window-1.0.0-beta04-15 C:\Users\mohsi\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-play-services-ads-lite-22.5.0-16 C:\Users\mohsi\.gradle\caches\transforms-3\b220656f6bb4937d34ff11bcf4b4952a\transformed\jetified-play-services-ads-lite-22.5.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-profileinstaller-1.3.0-17 C:\Users\mohsi\.gradle\caches\transforms-3\b5cf8be4aa58ce8d4018b816d00b01b3\transformed\jetified-profileinstaller-1.3.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-startup-runtime-1.1.1-18 C:\Users\mohsi\.gradle\caches\transforms-3\b61f4c36b7cdd7171432c4d075d2625f\transformed\jetified-startup-runtime-1.1.1\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-lifecycle-process-2.6.2-19 C:\Users\mohsi\.gradle\caches\transforms-3\bf2e76b15142f074c2a40d07d0d2b4ec\transformed\jetified-lifecycle-process-2.6.2\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-constraintlayout-2.1.4-20 C:\Users\mohsi\.gradle\caches\transforms-3\db274dc03d524658eaf1927df9273e83\transformed\constraintlayout-2.1.4\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-core-runtime-2.2.0-21 C:\Users\mohsi\.gradle\caches\transforms-3\e4ba90b42ba7a6f13a9d38f7ae5e5801\transformed\core-runtime-2.2.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-ads-adservices-java-1.0.0-beta05-22 C:\Users\mohsi\.gradle\caches\transforms-3\e8cf1c72051236673743056ed7e073ab\transformed\jetified-ads-adservices-java-1.0.0-beta05\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-play-services-basement-18.2.0-23 C:\Users\mohsi\.gradle\caches\transforms-3\ea0d08699f3a7ad969a4ab0ca9461cc1\transformed\jetified-play-services-basement-18.2.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-browser-1.4.0-24 C:\Users\mohsi\.gradle\caches\transforms-3\ec860dc0b59b1950593565c04b4a2ac0\transformed\browser-1.4.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-lifecycle-livedata-core-2.6.2-25 C:\Users\mohsi\.gradle\caches\transforms-3\fea1c0de7211e1a2cac8dfa72453279c\transformed\lifecycle-livedata-core-2.6.2\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-main-26 C:\Users\mohsi\AppData\Local\Pub\Cache\hosted\pub.dev\google_mobile_ads-4.0.0\android\src\main\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-release-27 C:\Users\mohsi\AppData\Local\Pub\Cache\hosted\pub.dev\google_mobile_ads-4.0.0\android\src\release\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-pngs-28 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\google_mobile_ads\generated\res\pngs\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-resValues-29 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\google_mobile_ads\generated\res\resValues\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-rs-30 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\google_mobile_ads\generated\res\rs\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-mergeReleaseResources-31 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\google_mobile_ads\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.googlemobileads.google_mobile_ads-mergeReleaseResources-32 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\google_mobile_ads\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.googlemobileads.google_mobile_ads-merged_res-33 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\google_mobile_ads\intermediates\merged_res\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-packaged_res-34 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\webview_flutter_android\intermediates\packaged_res\release

@@ -1,0 +1,12 @@
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-0 C:\Users\mohsi\.gradle\caches\transforms-3\2cec17a2d47f950880a2bdca5c2f7ede\transformed\jetified-annotation-experimental-1.1.0\res
+com.tekartik.sqflite-core-1.6.0-1 C:\Users\mohsi\.gradle\caches\transforms-3\8b8b858c35be63ea4749b8a79584746a\transformed\core-1.6.0\res
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-2 C:\Users\mohsi\.gradle\caches\transforms-3\9d715a3e53dde034ffb5234a22d1ea91\transformed\jetified-window-java-1.0.0-beta04\res
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-3 C:\Users\mohsi\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\res
+com.tekartik.sqflite-main-4 C:\Users\mohsi\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.1\android\src\main\res
+com.tekartik.sqflite-release-5 C:\Users\mohsi\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.1\android\src\release\res
+com.tekartik.sqflite-pngs-6 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\sqflite\generated\res\pngs\release
+com.tekartik.sqflite-resValues-7 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\sqflite\generated\res\resValues\release
+com.tekartik.sqflite-rs-8 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\sqflite\generated\res\rs\release
+com.tekartik.sqflite-mergeReleaseResources-9 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\sqflite\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tekartik.sqflite-mergeReleaseResources-10 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\sqflite\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tekartik.sqflite-merged_res-11 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\sqflite\intermediates\merged_res\release

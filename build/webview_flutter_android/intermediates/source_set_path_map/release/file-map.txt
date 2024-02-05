@@ -1,0 +1,13 @@
+io.flutter.plugins.webviewflutter.webview_flutter_android-jetified-annotation-experimental-1.1.0-0 C:\Users\mohsi\.gradle\caches\transforms-3\2cec17a2d47f950880a2bdca5c2f7ede\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-webkit-1.7.0-1 C:\Users\mohsi\.gradle\caches\transforms-3\5a96cde6865d856a2dc4557272aff069\transformed\webkit-1.7.0\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-core-1.6.0-2 C:\Users\mohsi\.gradle\caches\transforms-3\8b8b858c35be63ea4749b8a79584746a\transformed\core-1.6.0\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-jetified-window-java-1.0.0-beta04-3 C:\Users\mohsi\.gradle\caches\transforms-3\9d715a3e53dde034ffb5234a22d1ea91\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-jetified-window-1.0.0-beta04-4 C:\Users\mohsi\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-main-5 C:\Users\mohsi\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter_android-3.14.0\android\src\main\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-release-6 C:\Users\mohsi\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter_android-3.14.0\android\src\release\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-pngs-7 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\webview_flutter_android\generated\res\pngs\release
+io.flutter.plugins.webviewflutter.webview_flutter_android-resValues-8 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\webview_flutter_android\generated\res\resValues\release
+io.flutter.plugins.webviewflutter.webview_flutter_android-rs-9 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\webview_flutter_android\generated\res\rs\release
+io.flutter.plugins.webviewflutter.webview_flutter_android-mergeReleaseResources-10 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\webview_flutter_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.webviewflutter.webview_flutter_android-mergeReleaseResources-11 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\webview_flutter_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.webviewflutter.webview_flutter_android-merged_res-12 C:\Users\mohsi\OneDrive\Desktop\New folder (3)\Archive-7[1]\build\webview_flutter_android\intermediates\merged_res\release
